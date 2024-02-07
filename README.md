@@ -1,4 +1,4 @@
-# Landmark Insurance Dashboard
+# Landmark Insurance Dashboard 
 One of the objectives of this report it to categorize customers rating by their BMIs and provide credit to the customers. Another important objective is to provide insights for overall success, recommend immediate business decision and operational improvements across the four states of operations which are New Hampshire, Georgia, Texas and Michigan.
 # What is BMI? 🏷️ 
 BMI simply mean Body Mass Index used to group people by body weight. It is a vital indicator of individual's health fact. It's calculated by dividing weight and kilograms by the square of height in meters.
